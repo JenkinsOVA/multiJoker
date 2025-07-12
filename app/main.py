@@ -8,4 +8,6 @@ def main():
     print("Joke saved to file.")
 
 if __name__ == "__main__":
+    print("skaltuch was here")
     main()
+    
